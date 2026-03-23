@@ -1,0 +1,13 @@
+term,coefficient
+Intercept,1.4336317606377353
+C(phase)[T.Middle],-0.48310233221699295
+C(phase)[T.Powerplay],-0.4812660400780635
+C(phase)[T.Unknown],-0.29947612864685064
+C(inning)[T.2.0],0.012966858646996038
+C(match_stage)[T.group],-0.06548114239333738
+C(match_stage)[T.quarter_final],-0.08932699081663033
+C(match_stage)[T.semi_final],-0.09487643133934713
+C(match_stage)[T.super_eight],-0.1175423196898783
+C(match_stage)[T.super_six],-0.12340707347605462
+pi_composite_1to10_learnedcurve,-0.14096962390551213
+balls_bowled,0.0028775282468506127
